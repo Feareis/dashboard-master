@@ -1,3 +1,3 @@
 # dashboard-master
- cd dashboard-master
- npm install
+ - cd dashboard-master
+ - npm install
