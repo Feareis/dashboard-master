@@ -1,2 +1,3 @@
 # dashboard-master
- template dashboard
+ cd dashboard-master
+ npm install
